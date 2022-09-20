@@ -1,6 +1,6 @@
 <h1>Hello! I'm Brandon 👋</h1>
 <ul>
-  <li>:mortar_board:Mount Royal University student. Expected graduation 2023
+  <li>:mortar_board:Mount Royal University student. Expected graduation 2022
   <li>:computer:Aspiring front-end web developer
   <li>:art:Passionate about art, desgin and all things creative!
 </ul>
