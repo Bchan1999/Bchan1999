@@ -1,7 +1,8 @@
 <h1>Hello! I'm Brandon 👋</h1>
 <ul>
   <li>:mortar_board:Mount Royal University student. Graduated December 2022 
-  <li>:computer:Aspiring front-end web developer
+  <li>:nerd_face:Aspiring Software Developer
+  <li>:computer:Technologies: JavaScript (React), Python, Node.js, MongoDB, Java
   <li>:art:Passionate about art, desgin and all things creative!
 </ul>
 
